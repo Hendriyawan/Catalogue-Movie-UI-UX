@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Catalogue Movie Ui Ux</string>
+    <string name="navigation_drawer_open">Buka drawer</string>
+    <string name="navigation_drawer_close">Tutup drawer navigai</string>
+    <string name="nav_header_title">Hendriyawwan</string>
+    <string name="nav_header_subtitle">https://github.com/Hendriyawan</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <!--for locallization-->
+    <string name="tab_nowplaying">SAAT INI</string>
+    <string name="tab_upcoming">MENDATANG</string>
+    <string name="toolbar_search_title">Cari Film</string>
+    <string name="progress_dialog_loading_message">Harap Tunggu...</string>
+    <string name="search_view_hint">Masukan nama film</string>
+    <string name="search_movie">Pencarian Film</string>
+    <string name="date_of_release">Tanggal Rilis</string>
+    <string name="rating">Penilaian</string>
+    <string name="vote">Total Suara</string>
+    <string name="set_language">Atur Bahasa</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+</resources>
