@@ -30,7 +30,9 @@ public class ActivitySearchMovie extends AppCompatActivity {
 
         //setup android toolbar
         setSupportActionBar(toolbar);
-        getSupportActionBar().setTitle(getResources().getString(R.string.toolbar_search_title));
+        if(getSupportActionBar() != null){
+            getSupportActionBar().setTitle(getResources().getString(R.string.toolbar_search_title));
+        }
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         //action upbutton
         toolbar.setNavigationOnClickListener(new View.OnClickListener() {
